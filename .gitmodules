@@ -5,6 +5,3 @@
 [submodule "DynClust"]
 	path = DynClust
 	url = https://github.com/cran/DynClust
-[submodule "PlasmaMutationDetector2"]
-	path = PlasmaMutationDetector2
-	url = https://github.com/cran/PlasmaMutationDetector2
